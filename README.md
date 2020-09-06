@@ -1,6 +1,6 @@
 ### Hi there, I'm Samuel - aka [Saniee][website] 👋
 
-[![Website](https://img.shields.io/website?label=Saniee.rf.gd&style=for-the-badge&url=https%3A%2F%2Fsaniee.rf.gd)](http://saniee.rf.gd)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=go&url=http%3A%2F%2Fsaniee.rf.gd)](http://saniee.rf.gd)
 
 ## I'm a Student, Developer!
 
