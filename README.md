@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="saniee.rf.gd" width="22px" src="http://saniee.rf.gd" />][website]
+[<img align="left" alt="saniee.rf.gd" width="22px" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=plastic&up_color=blue&up_message=go&url=http%3A%2F%2Fsaniee.rf.gd" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
