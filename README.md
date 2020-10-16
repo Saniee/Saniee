@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer!
 
-- 🔭 I’m currently working on Discord Bots and a Discord Server called Factorio Mods!
+- 🔭 I’m currently working on Discord Bots and some Websites!
 - 🌱 I’m currently learning java + c#
 - ⚡ Fun fact: I love to play games!
 
