@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=go&url=http%3A%2F%2Fsaniee.rf.gd)](http://saniee.rf.gd)
 
-## I'm a Student, Developer!
+## I'm a Student!
 
-- 🔭 I’m currently working on Discord Bots and some Websites!
-- 🌱 I’m currently learning java + c#
-- ⚡ Fun fact: I love to play games!
+- I’m currently working on Discord Bots and some Websites!
+- I’m currently learning java + c#
+- Fun fact: I love to play games!
 
 
 ### Connect with me:
