@@ -6,14 +6,6 @@
 
 - I’m currently working on Discord Bots and some Websites!
 - I’m currently learning java + c#
-- Fun fact: I love to play games!
-
-
-### Connect with me:
-
-[<img align="left" alt="Saniee | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-<br />
 
 ### Languages and Tools:
 
