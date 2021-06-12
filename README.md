@@ -1,8 +1,11 @@
 ### Hi there, I'm Samuel - aka [Saniee][website] 👋
 
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=go&url=http%3A%2F%2Fsaniee.rf.gd)](http://saniee.rf.gd)
+Donate if you would like to! I can offer some work in return if you ask nicely!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X04Y5AH)
 
 ## I'm a Student!
+
 
 - I’m currently working on Discord Bots and some Websites!
 - I’m currently learning java + c#
