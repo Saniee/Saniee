@@ -1,8 +1,4 @@
-### Hi there, I'm Samuel - aka [Saniee][website] 👋
-
-Donate if you would like to! I can offer some work in return if you ask nicely!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X04Y5AH)
+### Hi there, I'm Samuel - aka [Saniee][website]
 
 ## I'm a Student!
 
@@ -29,6 +25,6 @@ Donate if you would like to! I can offer some work in return if you ask nicely!
 
 </details>
 
-[website]: https://saniee.rf.gd
+[website]: https://saniee.xyz/
 [itch.io]: https://saniee.itch.io/
 [youtube]: https://www.youtube.com/channel/UCt4ckjAp0DfIiusOBV9GtVw
