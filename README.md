@@ -2,8 +2,6 @@
 
 ## I'm a Student!
 
-
-- I’m currently working on Discord Bots and some Websites!
 - I’m currently working on custom discord bots, music and websites.
 
 [itch.io][itch]
