@@ -1,13 +1,15 @@
-### Hi there, I'm Samuel - aka [Saniee][website]
+# Hi there, I'm Samuel - aka [Saniee][website]
 
-## I'm a Student!
+### Student of Programming and Electronics. 
+### Avid hobbist of modeling and artsy stuff.
 
-- I’m currently working on custom discord bots, music and websites.
-
-[itch.io][itch]
+# Socials:
+[Twitter][Twitter]
 <br>
-[youtube][yt]
+[Youtube][yt]
+<br>
+[Website][website]
 
 [website]: https://saniee.xyz/
-[itch]: https://saniee.itch.io/
+[twitter]: https://twitter.com/Saniee_Dev
 [yt]: https://www.youtube.com/channel/UCt4ckjAp0DfIiusOBV9GtVw
