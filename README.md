@@ -1,6 +1,6 @@
 # Hi there, I'm Samuel - aka [Saniee][website]
 
-### Student of Programming and Electronics. 
+### Student of IT.
 ### Avid hobbist of modeling and artsy stuff.
 
 # Socials:
