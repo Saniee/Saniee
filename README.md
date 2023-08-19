@@ -8,8 +8,9 @@
 <br>
 [Youtube][yt]
 <br>
+Hopefully will get a proper domain.
 [Website][website]
 
-[website]: https://saniee.xyz/
+[website]: [https://saniee.xyz/](https://sanieexyz.vercel.app/)
 [twitter]: https://twitter.com/Saniee_Dev
 [yt]: https://www.youtube.com/channel/UCt4ckjAp0DfIiusOBV9GtVw
