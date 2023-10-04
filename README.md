@@ -1,17 +1,15 @@
 # Hi there, I'm Samuel - aka [Saniee][website]
 
-### Student of IT.
-### Avid hobbist of modeling and artsy stuff.
+### Student of Applied Informatics, in STU FEI Bratislava.
+### Avid hobbist of 3D Modeling and Artsy stuff.
 
 # Socials:
 [Twitter][Twitter]
 <br>
 [Youtube][yt]
 <br>
-
-Hopefully will get a proper domain. <br>
 [Website][website]
 
-[website]: https://sanieexyz.vercel.app/
+[website]: https://saniee.dev/
 [twitter]: https://twitter.com/Saniee_Dev
 [yt]: https://www.youtube.com/channel/UCt4ckjAp0DfIiusOBV9GtVw
