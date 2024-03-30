@@ -1,6 +1,5 @@
 # Hi there, I'm Samuel - aka [Saniee][website]
 
-### Student of Applied Informatics, in STU FEI Bratislava.
 ### Avid hobbist of 3D Modeling and Artsy stuff.
 
 # Socials:
