@@ -5,7 +5,7 @@
 ## Portfolio
 My website has all my, actual projects that had some use case. Click on the badge below to access it.
 <br><br>
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://saniee.dev/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://saniee.vercel.app/)
 
 ## Skills
 ### Programming Languages
