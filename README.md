@@ -4,6 +4,7 @@
 
 [FoxholeWarBot](https://github.com/Saniee/FoxholeWarBot)
 
-[hd2-level-calculator](https://github.com/Saniee/hd2-level-calculator)
+[ED-FleetCarrier-Dashboard](https://github.com/Saniee/ED-FleetCarrier-Dashboard)
 
 [furnacesPlus](https://github.com/Saniee/furnacesPlus)
+
